@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="513" started-at="2020-03-24T17:33:52Z" finished-at="2020-03-24T17:33:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="513" started-at="2020-03-24T17:33:52Z" finished-at="2020-03-24T17:33:52Z">
+      <class name="Com.SMB.TestCase.ManagerFeature.ManagerFeature">
+        <test-method status="PASS" signature="LaunchingUrl()[pri:0, instance:Com.SMB.TestCase.ManagerFeature.ManagerFeature@7f0eb4b4]" name="LaunchingUrl" duration-ms="491" started-at="2020-03-24T13:33:52Z" finished-at="2020-03-24T13:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchingUrl -->
+      </class> <!-- Com.SMB.TestCase.ManagerFeature.ManagerFeature -->
+    </test> <!-- Test -->
+    <test name="Testing" duration-ms="497" started-at="2020-03-24T17:33:52Z" finished-at="2020-03-24T17:33:52Z">
+      <class name="Com.SMB.TestCase.ManagerFeature.ManagerFeature">
+        <test-method status="PASS" signature="setUps()[pri:0, instance:Com.SMB.TestCase.ManagerFeature.ManagerFeature@409bf450]" name="setUps" is-config="true" duration-ms="7016" started-at="2020-03-24T13:33:45Z" finished-at="2020-03-24T13:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUps -->
+        <test-method status="PASS" signature="LaunchingUrl()[pri:0, instance:Com.SMB.TestCase.ManagerFeature.ManagerFeature@409bf450]" name="LaunchingUrl" duration-ms="471" started-at="2020-03-24T13:33:52Z" finished-at="2020-03-24T13:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchingUrl -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Com.SMB.TestCase.ManagerFeature.ManagerFeature@409bf450]" name="teardown" is-config="true" duration-ms="1" started-at="2020-03-24T13:33:52Z" finished-at="2020-03-24T13:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Com.SMB.TestCase.ManagerFeature.ManagerFeature -->
+    </test> <!-- Testing -->
+  </suite> <!-- Suite -->
+</testng-results>

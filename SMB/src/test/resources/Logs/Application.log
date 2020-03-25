@@ -1,0 +1,63 @@
+12:23:43,573 DEBUG DevInfo:52 -  confiq and OR properties file  loaded
+12:23:43,575 DEBUG DevInfo:57 - Chrome is launching
+12:23:43,696 DEBUG InternalLoggerFactory:47 - Using Log4J as the default logging framework
+12:23:43,699 DEBUG ResourceLeakDetector:129 - -Dio.netty.leakDetection.level: simple
+12:23:43,699 DEBUG ResourceLeakDetector:130 - -Dio.netty.leakDetection.targetRecords: 4
+12:23:43,716 DEBUG PlatformDependent:987 - Platform: Windows
+12:23:43,717 DEBUG PlatformDependent0:396 - -Dio.netty.noUnsafe: false
+12:23:43,717 DEBUG PlatformDependent0:852 - Java version: 8
+12:23:43,718 DEBUG PlatformDependent0:121 - sun.misc.Unsafe.theUnsafe: available
+12:23:43,719 DEBUG PlatformDependent0:145 - sun.misc.Unsafe.copyMemory: available
+12:23:43,719 DEBUG PlatformDependent0:183 - java.nio.Buffer.address: available
+12:23:43,720 DEBUG PlatformDependent0:244 - direct buffer constructor: available
+12:23:43,721 DEBUG PlatformDependent0:314 - java.nio.Bits.unaligned: available, true
+12:23:43,721 DEBUG PlatformDependent0:379 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+12:23:43,721 DEBUG PlatformDependent0:386 - java.nio.DirectByteBuffer.<init>(long, int): available
+12:23:43,721 DEBUG PlatformDependent:1030 - sun.misc.Unsafe: available
+12:23:43,724 DEBUG PlatformDependent:1149 - -Dio.netty.tmpdir: C:\Users\AT\AppData\Local\Temp (java.io.tmpdir)
+12:23:43,724 DEBUG PlatformDependent:1228 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+12:23:43,725 DEBUG PlatformDependent:174 - -Dio.netty.maxDirectMemory: 1890582528 bytes
+12:23:43,725 DEBUG PlatformDependent:181 - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+12:23:43,726 DEBUG CleanerJava6:92 - java.nio.ByteBuffer.cleaner(): available
+12:23:43,726 DEBUG PlatformDependent:201 - -Dio.netty.noPreferDirect: false
+12:23:43,727 DEBUG ResourceLeakDetectorFactory:195 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@35841320
+12:23:43,736 DEBUG PlatformDependent:891 - org.jctools-core.MpscChunkedArrayQueue: available
+12:23:43,958 DEBUG JdkSslContext:96 - Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+12:23:43,959 DEBUG JdkSslContext:97 - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA]
+12:23:43,976 DEBUG InternalThreadLocalMap:54 - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+12:23:43,976 DEBUG InternalThreadLocalMap:57 - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+12:23:43,981 DEBUG MultithreadEventLoopGroup:44 - -Dio.netty.eventLoopThreads: 8
+12:23:43,989 DEBUG NioEventLoop:106 - -Dio.netty.noKeySetOptimization: false
+12:23:43,989 DEBUG NioEventLoop:107 - -Dio.netty.selectorAutoRebuildThreshold: 512
+12:23:44,064 DEBUG PooledByteBufAllocator:142 - -Dio.netty.allocator.numHeapArenas: 8
+12:23:44,064 DEBUG PooledByteBufAllocator:143 - -Dio.netty.allocator.numDirectArenas: 8
+12:23:44,064 DEBUG PooledByteBufAllocator:145 - -Dio.netty.allocator.pageSize: 8192
+12:23:44,065 DEBUG PooledByteBufAllocator:150 - -Dio.netty.allocator.maxOrder: 11
+12:23:44,065 DEBUG PooledByteBufAllocator:154 - -Dio.netty.allocator.chunkSize: 16777216
+12:23:44,065 DEBUG PooledByteBufAllocator:155 - -Dio.netty.allocator.tinyCacheSize: 512
+12:23:44,065 DEBUG PooledByteBufAllocator:156 - -Dio.netty.allocator.smallCacheSize: 256
+12:23:44,065 DEBUG PooledByteBufAllocator:157 - -Dio.netty.allocator.normalCacheSize: 64
+12:23:44,065 DEBUG PooledByteBufAllocator:158 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+12:23:44,065 DEBUG PooledByteBufAllocator:159 - -Dio.netty.allocator.cacheTrimInterval: 8192
+12:23:44,065 DEBUG PooledByteBufAllocator:160 - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+12:23:44,065 DEBUG PooledByteBufAllocator:161 - -Dio.netty.allocator.useCacheForAllThreads: true
+12:23:44,065 DEBUG PooledByteBufAllocator:162 - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+12:23:44,072 DEBUG ByteBufUtil:85 - -Dio.netty.allocator.type: pooled
+12:23:44,072 DEBUG ByteBufUtil:94 - -Dio.netty.threadLocalDirectBufferSize: 0
+12:23:44,072 DEBUG ByteBufUtil:97 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+12:23:44,898 DEBUG DefaultChannelId:79 - -Dio.netty.processId: 7844 (auto-detected)
+12:23:44,900 DEBUG NetUtil:139 - -Djava.net.preferIPv4Stack: false
+12:23:44,900 DEBUG NetUtil:140 - -Djava.net.preferIPv6Addresses: false
+12:23:44,919 DEBUG NetUtil:224 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+12:23:44,919 DEBUG NetUtil:289 - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+12:23:44,942 DEBUG DefaultChannelId:101 - -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+12:23:44,983 DEBUG AbstractByteBuf:62 - -Dio.netty.buffer.checkAccessible: true
+12:23:44,983 DEBUG AbstractByteBuf:63 - -Dio.netty.buffer.checkBounds: true
+12:23:44,983 DEBUG ResourceLeakDetectorFactory:195 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2dfa39d0
+12:23:45,007 DEBUG Recycler:96 - -Dio.netty.recycler.maxCapacityPerThread: 4096
+12:23:45,007 DEBUG Recycler:97 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+12:23:45,007 DEBUG Recycler:98 - -Dio.netty.recycler.linkCapacity: 16
+12:23:45,007 DEBUG Recycler:99 - -Dio.netty.recycler.ratio: 8
+12:23:46,932 DEBUG ThreadLocalRandom:212 - -Dio.netty.initialSeedUniquifier: 0xf5be702cf2b6ff4f
+12:23:49,250 DEBUG DevInfo:64 - Web site launched...
+12:23:52,386 DEBUG DevInfo:95 - test execution completed
